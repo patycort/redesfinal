@@ -1,0 +1,70 @@
+
+.titulo{
+    font-size:20px ;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    color: white;
+}
+
+.tabla_titulo{
+    background-color: #FB7DA6;
+    height: 33px;
+
+  border: 1px #ade0db;
+    border-top-left-radius:10px;
+    border-top-right-radius:10px;
+    border-bottom-left-radius:10px;
+    border-bottom-right-radius:10px;
+    font-family:Consolas;
+}
+
+.tabla_sensor{
+    background-color: white;
+    height: 177px;
+    border-color: #707070;
+    border-width: 1px;
+    border-style: solid;
+    justify-content: center;
+
+  border: 1px #ade0db;
+    border-top-left-radius:10px;
+    border-top-right-radius:10px;
+    border-bottom-left-radius:10px;
+    border-bottom-right-radius:10px;
+    font-family:Consolas;
+}
+
+
+
+.texto_grande{
+    font-size:20px ;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    color: #707070
+    line-height: 0;
+}
+
+.texto_min{
+    font-size:12px ;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    color: #707070; 
+    line-height: 0;
+}
+
+.texto_min_vacio{
+    font-size:12px ;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    color: white; 
+    line-height: 0;
+}
+
+.iframe_dato{
+    border:0px solid black;
+    width:60px;
+    height:50px;
+}
+
+.tablestyle1{
+    border: 1px #ade0db;
+    border-top-left-radius:10px;
+    border-top-right-radius:10px;
+    font-family:Consolas;
+}
